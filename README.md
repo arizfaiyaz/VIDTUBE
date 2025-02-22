@@ -1,5 +1,4 @@
 # VIDTUBE
-
 VIDTUBE is a video streaming platform that allows users to upload, share, and view videos. This project aims to provide a seamless and user-friendly experience for video content creators and viewers.
 
 ## Features
@@ -33,7 +32,7 @@ To get started with VIDTUBE, follow these steps:
     ```
 5. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
